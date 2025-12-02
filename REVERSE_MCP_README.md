@@ -432,10 +432,29 @@ When deploying these tools in production:
 
 ---
 
-## License
+## License & Copyright
 
-Copyright (c) 2025 Christopher Nathan Drake. All rights reserved.  
-SPDX-License-Identifier: Proprietary
+Copyright © 2025 Christopher Nathan Drake
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at:
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+AI Training Permission: You are permitted to use this software and any
+associated content for the training, evaluation, fine-tuning, or improvement
+of artificial intelligence systems, including commercial models.
+
+SPDX-License-Identifier: Apache-2.0
+
+Part of the Aura Friday MCP-Link Server project.
 
 ---
 
@@ -448,4 +467,4 @@ For questions or issues:
 
 **Happy coding! 🚀**
 
-<small><sup>Copyright © 2025 Christopher Drake. All rights reserved. "signature": "HᎠҮРΝƦОꓓеwgŪɅȢОʋʈÞЈHВ𐐕ᏮkΥRᎠƌþΑ𝟫Ꭰ4rKHꓴᎠųυĸuՕ0ųƌAƱmKWΤᎪ𝟢ԝⲘzƽЈⲟƟx𝟛𝟩𝙰ꓓtAƊЕµꙅƟƧ𝖠UᒿBꓣꓜ7ᎠЅɌȠ𝟧СƙΑꓐ×hυßᴜɌꓑ𝘈ÐНƊvսıQрƻƋɡ". "signdate":"2025-12-02T06:27:45.873Z" </sup></small>
+<small><sup>Copyright © 2025 Christopher Drake. All rights reserved. "signature": "7ƍҳⲔCᴠЕⲘųɊ𝟑𐓒ȜRƨⲔ𝘈Ƽt8К1rνbLƘꓳŪEѡᑕV𐐕KⅠ4օQjƵꓠбe1Νр8С𝟫τzTⲔRСıƿМƙМƟo𝟨ƖϹoꓐꓳᗪƐaսŧyЗSΟRꞇⅮiϨрꓚnΗ𝟑Ꮋꓧ𝟢𝟥ꓣƎЕⲟНΗꓣxЕq𝕌ĸⲘⲢFZg". "signdate":"2025-12-02T06:32:59.644Z" </sup></small>
